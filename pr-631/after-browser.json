@@ -1,0 +1,511 @@
+{
+  "version": "after",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "source": "e6077130228bcfe72847c25ba23ba498d4818f1d",
+  "checks": [
+    "SSR has no opacity:0; positive control detects hidden output",
+    {
+      "motionAllowed": {
+        "opacityAt30Px": 0,
+        "opacityAfterFade": 1,
+        "samples": [
+          {
+            "opacity": 0,
+            "top": 770,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 770,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 770,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 765,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 765,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 765,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 765,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 765,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 765,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 760,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 760,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 760,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 755,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 750,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 750,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 750,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 750,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 750,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 750,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 745,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 740,
+            "animations": 0
+          },
+          {
+            "opacity": 0,
+            "top": 740,
+            "animations": 1
+          },
+          {
+            "opacity": 0,
+            "top": 740,
+            "animations": 1
+          },
+          {
+            "opacity": 0,
+            "top": 735,
+            "animations": 1
+          },
+          {
+            "opacity": 0.0685798,
+            "top": 733.3540649414062,
+            "animations": 1
+          },
+          {
+            "opacity": 0.208075,
+            "top": 730.0062255859375,
+            "animations": 1
+          },
+          {
+            "opacity": 0.276771,
+            "top": 728.3574829101562,
+            "animations": 1
+          },
+          {
+            "opacity": 0.343197,
+            "top": 726.7632446289062,
+            "animations": 1
+          },
+          {
+            "opacity": 0.407407,
+            "top": 725.2222290039062,
+            "animations": 1
+          },
+          {
+            "opacity": 0.468053,
+            "top": 723.7667236328125,
+            "animations": 1
+          },
+          {
+            "opacity": 0.525455,
+            "top": 728.3890991210938,
+            "animations": 1
+          },
+          {
+            "opacity": 0.578992,
+            "top": 727.1041870117188,
+            "animations": 1
+          },
+          {
+            "opacity": 0.628563,
+            "top": 725.9144897460938,
+            "animations": 1
+          },
+          {
+            "opacity": 0.674177,
+            "top": 724.8197631835938,
+            "animations": 1
+          },
+          {
+            "opacity": 0.715451,
+            "top": 723.8291625976562,
+            "animations": 1
+          },
+          {
+            "opacity": 0.788072,
+            "top": 722.0863037109375,
+            "animations": 1
+          },
+          {
+            "opacity": 0.819275,
+            "top": 721.33740234375,
+            "animations": 1
+          },
+          {
+            "opacity": 0.847345,
+            "top": 720.6636962890625,
+            "animations": 1
+          },
+          {
+            "opacity": 0.872341,
+            "top": 724.0638427734375,
+            "animations": 1
+          },
+          {
+            "opacity": 0.894758,
+            "top": 723.5258178710938,
+            "animations": 1
+          },
+          {
+            "opacity": 0.914623,
+            "top": 723.0490112304688,
+            "animations": 1
+          },
+          {
+            "opacity": 0.947297,
+            "top": 722.264892578125,
+            "animations": 1
+          },
+          {
+            "opacity": 0.97174,
+            "top": 721.67822265625,
+            "animations": 1
+          },
+          {
+            "opacity": 0.981236,
+            "top": 721.4503173828125,
+            "animations": 1
+          },
+          {
+            "opacity": 0.995243,
+            "top": 721.1141357421875,
+            "animations": 1
+          },
+          {
+            "opacity": 0.999977,
+            "top": 721.0005493164062,
+            "animations": 1
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          },
+          {
+            "opacity": 1,
+            "top": 721,
+            "animations": 0
+          }
+        ]
+      }
+    },
+    "Reduced motion: visible throughout slow scroll, no section animations, no pulse animations",
+    "No JavaScript: server section remains visible",
+    "Switching to reduce while waiting clears hiding styles immediately",
+    "Switching to reduce during fade cancels animation and clears hiding styles",
+    {
+      "allSectionsVisibleAfterScroll": 21
+    }
+  ]
+}
